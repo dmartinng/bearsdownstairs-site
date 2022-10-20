@@ -1,0 +1,4 @@
+baseURL = 'http://bearsdownstairs.com/'
+languageCode = 'en-us'
+title = 'Bears Downstairs'
+theme = 'up-business-theme'

@@ -1,0 +1,13 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/workingtidal.png"
+    pretitle: "Game"
+    title: "Working Tidal"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+    buttons: 
+      - label: "Read more"
+        url: "/games/working-tidal"
+

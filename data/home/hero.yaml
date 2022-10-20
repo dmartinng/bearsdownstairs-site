@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Just a bunch of bears **making games**"
+  text: "We're an independent game studio focusing on making games that..."
+
+  buttonPrimary:
+    label: "Meet The Team"
+    url: "/team"
+
+  buttonSecondary:
+    label: "See Our Works"
+    url: "/portfolio"
+
